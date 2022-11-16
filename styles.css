@@ -1,0 +1,160 @@
+.title{
+  background-color: #f67280;
+}
+@media (max-width: 1028px) {
+  .title{
+    text-align: center;
+  }
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+  font-size: 1.5rem;
+  margin-top: 7%;
+}
+p{
+  color: grey;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+}
+em{
+  margin-left: 2%;
+  color: white;
+  font-size: 1.2rem;
+}
+.title-p{
+  margin-left: 2%;
+  color: white;
+  font-size: 1.2rem;
+}
+.navbar-brand{
+  padding-left: 50px;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+.container-fluid{
+  padding: 3% 15%;
+}
+.row{
+  padding: 50px 0 50px 50px;
+}
+.header{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    font-size: 3rem;
+    color: white;
+    margin-right: 60px;
+    width: 105%;
+}
+.download-button{
+  margin-top: 5%;
+}
+.btn{
+  margin-right: 3%;
+}
+.nav-item{
+  margin: 0 1.2rem 0 1.2rem;
+}
+.nav-link{
+  font-weight: normal;
+  font-size: 1.1rem;
+}
+.img1{
+  margin-left: 10%;
+  margin-bottom: 15%;
+}
+.icon{
+  font-size: 4rem;
+  color: #FA5F55;
+}
+.features{
+  padding:7% 15%;
+}
+.mid-content{
+  color: grey;
+  font-size: 0.95rem;
+  font-family: 'Montserrat', sans-serif;
+}
+.features-box{
+  text-align: center;
+  padding: 2%;
+}
+.icon:hover{
+  color: #f67280;
+}
+.footer{
+  background-color: #FA5F55;
+}
+.footer-box{
+  text-align: center;
+  padding: 10%;
+}
+.lower-content{
+  font-family: 'Montserrat', sans-serif;
+  color: #fff;
+  font-weight: bold;
+  font-size: 2.2rem;
+  padding: 0 10% 0 10%;
+}
+.footer-img{
+  margin-top: 5%;
+  height: 130px;;
+  width: 130px;
+  border-radius:100%;
+}
+.pricing-det{
+  margin-top: 8%;
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 90%;
+  margin-bottom: 8%;
+  line-height: 1.2;
+}
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+.pricing-column{
+  padding: 1% 1%;
+}
+.card{
+  padding: 1%;
+  font-family: 'Ubuntu', sans-serif;
+}
+.pricing-p{
+  color: #FF0000;
+  padding-left: 5%;
+  padding-right: 5%;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+  font-size: 3.2rem;
+}
+#cta{
+  background-color: #f67280;
+  color: #fff;
+  padding: 7% 15%;
+  text-align: center;
+}
+.cta-content{
+  color: white;
+  font-weight: bold;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+#footer-end{
+  text-align: center;
+  padding: 5% 10%;
+}
+.social-icon{
+  margin: 20px 10px;
+}
+h3{
+  color: #FA5F55;
+  font-weight: bold;
+}
+.card-price{
+  color: #FA5F55;
+  font-size: 2rem;
+  font-weight: bold;
+}
