@@ -5,6 +5,8 @@
   .title{
     text-align: center;
   }
+  .img1{
+    display:none;
 }
 h2{
   font-family: 'Montserrat', sans-serif;
@@ -18,7 +20,7 @@ p{
   font-weight: normal;
 }
 em{
-  margin-left: 2%;
+  
   color: white;
   font-size: 1.2rem;
 }
@@ -45,7 +47,7 @@ em{
     font-size: 3rem;
     color: white;
     margin-right: 60px;
-    width: 105%;
+    width: 100%;
 }
 .download-button{
   margin-top: 5%;
