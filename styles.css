@@ -1,7 +1,7 @@
 .title{
   background-color: #f67280;
 }
-@media (max-width: 1028px) {
+@media (max-width: 650px) {
   .title{
     text-align: center;
   }
